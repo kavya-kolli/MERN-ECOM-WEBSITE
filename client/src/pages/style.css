@@ -1,0 +1,60 @@
+.login{
+    display: inline-block;
+    padding: 40px;
+   margin: 50px ;
+    box-shadow: 0 0 5px black;
+ 
+}
+.register{
+    display: inline-block;
+    padding: 40px;
+   margin: 50px ;
+    box-shadow: 0 0 5px black;
+ 
+   
+}.home{
+    background: url(https://1.bp.blogspot.com/-fRRNnBlUfFM/XalA4-Kq20I/AAAAAAAAN8k/9oUiSqxKho8GZNjOQoV0xAxyCUJNRQJ_QCLcBGAsYHQ/s1600/flipkartstoresnearby.PNG)no-repeat;
+    background-size: cover;
+    min-height: 50em;
+    min-width: 95em;
+    background-position: center;
+}.home img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: 0.2s ease;
+    padding:20px;
+ 
+   
+}.home img:hover{
+    transform: scale(1.04);
+
+}
+.product img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: 0.2s ease;
+    padding:20px;
+   
+
+}.product img:hover{
+    transform: scale(1.04);
+
+}.item{float: left;
+background-color: rgb(237, 226, 228);
+
+}h4{
+
+ font-size: 20px;
+}h3{
+   color: rgb(136, 60, 207);
+}button{
+    background-color: rgb(189, 139, 236);
+    border-style: none;
+    border-radius: 5px;
+}button:hover{
+    background-color: rgb(86, 22, 145);
+}
